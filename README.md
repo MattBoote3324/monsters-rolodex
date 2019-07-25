@@ -1,6 +1,7 @@
-<div class="align-center">
-    <img alt="monster" src="https://robohash.org/1?set=set2" />
-</div>
+
+<p align="center">
+  <img align="center" width="128" src="https://robohash.org/1?set=set2&size=180x180">
+</p>
 
 ## Available Scripts
 
