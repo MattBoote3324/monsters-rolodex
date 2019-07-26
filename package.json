@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://mattboote3324.github.io/monsters-rolodex",
+  "homepage": "https://MattBoote3324.github.io/monsters-rolodex",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
